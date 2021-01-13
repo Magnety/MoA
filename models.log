@@ -1,0 +1,83 @@
+Fold 0
+Fold 0
+Set seed 0
+Fold 0
+Set seed 0
+Fold 0
+Set seed 0
+Fold 0
+Set seed 0
+Fold 0
+Set seed 0
+Fold 0
+Set seed 0
+epoch0 save best model... 0.03407775378936651
+Fold 0
+Set seed 0
+epoch0 save best model... 0.03407775378936651
+epoch1 save best model... 0.021771878066020836
+epoch2 save best model... 0.020765950524827343
+epoch3 save best model... 0.01992551500321385
+epoch4 save best model... 0.019539510255895877
+epoch5 save best model... 0.019496766701849827
+epoch6 save best model... 0.018685680744927675
+epoch7 save best model... 0.01864145018058513
+epoch8 save best model... 0.01829893633018933
+Fold 0
+Set seed 0
+epoch0 save best model... 0.03407775378936651
+epoch1 save best model... 0.021771878066020836
+epoch2 save best model... 0.020765950524827343
+epoch3 save best model... 0.01992551500321385
+epoch4 save best model... 0.019539510255895877
+epoch5 save best model... 0.019496766701849827
+epoch6 save best model... 0.018685680744927675
+epoch7 save best model... 0.01864145018058513
+epoch8 save best model... 0.01829893633018933
+Fold 1
+Set seed 0
+epoch0 save best model... 0.03404623136976585
+epoch1 save best model... 0.021647950933910993
+epoch2 save best model... 0.021229431179091166
+epoch3 save best model... 0.019795874231293423
+epoch4 save best model... 0.019409078647274362
+epoch5 save best model... 0.019038298835549375
+epoch6 save best model... 0.018719788341186854
+epoch7 save best model... 0.018437236057836266
+epoch9 save best model... 0.01826547685085641
+Fold 2
+Set seed 0
+epoch0 save best model... 0.033743120733742756
+epoch1 save best model... 0.021460468660361894
+epoch2 save best model... 0.02086567208803231
+epoch3 save best model... 0.019688941361363507
+epoch4 save best model... 0.019373601743232948
+epoch5 save best model... 0.01878507113146582
+epoch6 save best model... 0.01839150025007033
+epoch7 save best model... 0.018078820388632583
+epoch8 save best model... 0.017950751952186997
+epoch9 save best model... 0.017911107860773795
+Fold 3
+Set seed 0
+epoch0 save best model... 0.03435141719147936
+epoch1 save best model... 0.021839407809367214
+epoch2 save best model... 0.020955776628573553
+epoch3 save best model... 0.020254155873811054
+epoch4 save best model... 0.019594165473192048
+epoch5 save best model... 0.019431113735995424
+epoch6 save best model... 0.019090375981393327
+epoch7 save best model... 0.018793385817005313
+epoch8 save best model... 0.018602736740625528
+epoch9 save best model... 0.01840023671983315
+Fold 4
+Set seed 0
+epoch0 save best model... 0.03405297730193577
+epoch1 save best model... 0.021862483349764338
+epoch2 save best model... 0.02069323433032202
+epoch3 save best model... 0.01999928295827925
+epoch4 save best model... 0.01961422566045224
+epoch5 save best model... 0.01911132157741823
+epoch6 save best model... 0.018634666489489422
+epoch7 save best model... 0.01858752146091649
+epoch8 save best model... 0.018335166402750173
+CV score: 0.018242195692766788
